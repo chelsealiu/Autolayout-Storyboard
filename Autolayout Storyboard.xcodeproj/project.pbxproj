@@ -350,6 +350,7 @@
 				INFOPLIST_FILE = "Autolayout Storyboard/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -360,6 +361,7 @@
 				INFOPLIST_FILE = "Autolayout Storyboard/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -416,6 +418,7 @@
 				5E13D9461B31D9EA0076C4B5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5E13D9471B31D9EA0076C4B5 /* Build configuration list for PBXNativeTarget "Autolayout StoryboardTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +427,7 @@
 				5E13D9491B31D9EA0076C4B5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
